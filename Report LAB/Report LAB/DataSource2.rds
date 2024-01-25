@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="DataSource2">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=DESKTOP-V8000K6\SQLEXPRESS;Initial Catalog=ITI</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
+    <Prompt>Specify a user name and password for data source DataSource2</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>62986bf9-d4ba-4224-a5df-338baebcca02</DataSourceID>
+</RptDataSource>
